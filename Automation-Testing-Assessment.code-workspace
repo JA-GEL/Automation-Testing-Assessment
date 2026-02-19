@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Playwright_Automation",
+			"path": "../../../Playwright_Automation"
+		}
+	],
+	"settings": {}
+}
